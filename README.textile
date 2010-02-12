@@ -1,0 +1,21 @@
+h1. s-e-q-u-e-n-c-e
+
+experimental interactive media sequencer
+
+h2. Requirements
+  * gems: sinatra, pow, haml and their dependencies
+  * modern web browser (tested against recent firefox, chrome, and safari builds)
+
+h2. Installation
+
+<pre>
+  <code>
+    gem install sinatra pow haml unicorn
+    unicorn config.ru
+  </code>
+</pre>
+
+h1. Contributors
+
+<a href="http://github.com/maxogden">Max Ogden</a>
+<a href="http://effalo.com">Effalo Corp</a>
